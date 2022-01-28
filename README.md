@@ -6,6 +6,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagopereiradasilva&layout=compact&theme=dark"/>
 </div>
 <div style="display : inline_block"><br>
+    <img alt="Java" align = "center"height="60" with="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img alt="Spring" align = "center"height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img alt="Php" align = "center" height="60" with="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img alt="Vue.js" align = "center"height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img alt="HTML5" align = "center"height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
